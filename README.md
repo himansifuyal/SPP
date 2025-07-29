@@ -41,14 +41,7 @@ Removed missing/irrelevant values
 3. pip install streamlit pandas matplotlib seaborn scikit-learn joblib
 
 ## 📁 Project Structure
-student-performance-dashboard/
-
-├── app.py                    # Streamlit Dashboard
-├── StudentsPerformance.csv   # Dataset
-├── random_forest_model.joblib  # Trained ML model
-├── analysis.ipynb            # Data exploration & model training
-└── README.md                 # Project documentation
-
+<pre> ``` student-performance-dashboard/ ├── app.py # Streamlit Dashboard ├── StudentsPerformance.csv # Dataset ├── random_forest_model.joblib # Trained ML model ├── analysis.ipynb # Data exploration & model training └── README.md # Project documentation ``` </pre>
 ## Outcome
 A user-friendly dashboard for data exploration
 
