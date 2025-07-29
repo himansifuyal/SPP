@@ -42,6 +42,7 @@ Removed missing/irrelevant values
 
 ## 📁 Project Structure
 student-performance-dashboard/
+
 ├── app.py                    # Streamlit Dashboard
 ├── StudentsPerformance.csv   # Dataset
 ├── random_forest_model.joblib  # Trained ML model
