@@ -1,6 +1,6 @@
-📊 Student Performance Prediction Dashboard (Python + Streamlit)
+## 📊 Student Performance Prediction Dashboard (Python + Streamlit)
 This project analyzes and predicts student academic performance using exam scores and demographic information. The analysis includes visualizations and a machine learning model deployed through an interactive Streamlit dashboard.
-🎯 What the Dashboard Offers
+## 🎯 What the Dashboard Offers
 Filter students by gender, test preparation, parental education, lunch type, and group
 
 View average scores across genders
@@ -9,7 +9,7 @@ Predict performance (High/Low) using a trained Random Forest Classifier
 
 Interactive data table and visual insights
 
-🧰 Dataset
+## 🧰 Dataset
 File: StudentsPerformance.csv
 Includes:
 
@@ -40,7 +40,7 @@ Removed missing/irrelevant values
 2. Install dependencies:
 3. pip install streamlit pandas matplotlib seaborn scikit-learn joblib
 
-📁 Project Structure
+## 📁 Project Structure
 student-performance-dashboard/
 ├── app.py                    # Streamlit Dashboard
 ├── StudentsPerformance.csv   # Dataset
@@ -48,7 +48,7 @@ student-performance-dashboard/
 ├── analysis.ipynb            # Data exploration & model training
 └── README.md                 # Project documentation
 
-✅ Outcome
+## Outcome
 A user-friendly dashboard for data exploration
 
 Machine learning model to classify students as high or low performers
